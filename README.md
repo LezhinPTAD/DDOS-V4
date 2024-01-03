@@ -1,3 +1,5 @@
+# TERMINATED
+
 # DDOS-V4
 How To Install?
 NOTE: Don't Use setting.py!
